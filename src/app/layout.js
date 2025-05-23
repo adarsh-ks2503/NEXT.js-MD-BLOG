@@ -1,7 +1,7 @@
-import Navbar from "./components/Navbar";
+import Navbar from "./components/navbar";
 import "./globals.css";
 import { ThemeProvider } from "./components/theme-provider";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 
 export default function RootLayout({
   children,
